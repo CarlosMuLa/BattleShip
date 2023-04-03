@@ -1,0 +1,1 @@
+int aleatorio(int a[8][8]);
